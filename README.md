@@ -31,18 +31,23 @@ Scroll Law is enacted based on contradiction
 
 Outputs are saved:
 
+<img width="10" height="10" alt="vx_apex_output" src="https://github.com/user-attachments/assets/45a4f112-92da-45f4-bf22-e16f4511db73" />
 vx_apex_output.png
 
+{"prediction": [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], "scroll_law": "Law-0.0"}[vx_apex_output.json](https://github.com/user-attachments/files/22323430/vx_apex_output.json)
 vx_apex_output.json
 
 🖼️ Sample Inputs
 
 Test inputs included:
 
+<img width="10" height="10" alt="vx_test_checkerboard" src="https://github.com/user-attachments/assets/226257be-426b-4118-9aa1-a13923c46e59" />
 vx_test_checkerboard.png → High contradiction
 
+<img width="10" height="10" alt="vx_test_gradient" src="https://github.com/user-attachments/assets/1bf597b6-817b-41ca-beaf-a89dd042fd4c" />
 vx_test_gradient.png → Memory fade test
 
+<img width="10" height="10" alt="vx_test_clusters" src="https://github.com/user-attachments/assets/c5867a6c-8fb7-48ad-8125-6e4a67c3ca14" />
 vx_test_clusters.png → Symbolic identity test
 
 📦 Outputs
