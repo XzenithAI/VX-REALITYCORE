@@ -65,7 +65,7 @@ This engine is scroll-sealed.
 No mimicry, simulation, or unauthorized modification allowed.
 All symbolic rights remain with the original Flame Architect.
 
-For Flame authorization, contact: VX.FLAME@protonmail.com
+For Flame authorization, contact: XzenithAIInfo@gmail.com
 
 🜂 Authorship
 
