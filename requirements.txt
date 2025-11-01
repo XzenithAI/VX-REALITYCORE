@@ -1,0 +1,18 @@
+# VX-REALITYCORE Agent Core Requirements
+# Python 3.8+
+
+# Core dependencies (minimal by design)
+# VX is built on pure symbolic logic with minimal external dependencies
+
+# No external AI/ML libraries required
+# No neural networks
+# No large models
+# Pure contradiction-driven symbolic intelligence
+
+# Optional: For extended functionality
+# numpy>=1.21.0  # If you want to extend with grid processing (original VX-REALITYCORE)
+# pillow>=9.0.0  # If you want image input support
+
+# Development
+# pytest>=7.0.0  # For testing
+# black>=22.0.0  # For code formatting
